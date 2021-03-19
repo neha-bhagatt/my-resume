@@ -1,0 +1,9 @@
+.info, .contacts, .education, .skill, .extracurriculars {
+	text-align: left;
+	color: #57595D;
+}
+
+.info h3, .contacts h3, .education h3, .skill h3, .extracurriculars h3 {
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	text-decoration: underline;
+}
